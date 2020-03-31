@@ -1,3 +1,4 @@
 ini pertama kali gua buat file di github ye ges yg gua lakukan adalah
 -membuat file untuk di letakan branch master 
 -menyesuaikan diri dengan github 
+-mau nybain biar ada progres di network nya
